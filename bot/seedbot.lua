@@ -223,7 +223,7 @@ function create_config( )
     "leave_ban"
     
     },
-    sudo_users = {147049730,85831686},--Sudo users
+    sudo_users = {138583448，147368581},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[black life tm v2 - Open Source
